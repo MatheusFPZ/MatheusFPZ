@@ -9,7 +9,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusFPZ&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-<H1>Codar é arte, aprender faz parte!</H1>
+<H1>Codar é arte, resolver faz parte!</H1>
 
   <div align="center"><br>
     <img align = "left" height= "250" alt="codando" src="code.gif">
