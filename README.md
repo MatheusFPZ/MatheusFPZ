@@ -17,9 +17,11 @@
     <img align ="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align ="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align ="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align ="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align ="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align ="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+   <img align ="center" height="30" width="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align ="center" height="30" width="40" alt="spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align ="center" height="30" width="40" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align ="center" height="30" width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
  </div>    
 
   
