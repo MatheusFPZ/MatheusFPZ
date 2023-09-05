@@ -1,10 +1,5 @@
 <H1 align= "center">Bem Vindo!</H1>
 
-
-
-## Habilidades
-
-## Detalhes
 - 💼Trabalho atualmente na Ativo.
 - 👨‍💻 Estou desenvolvendo um app e me aprofundando em Machine Learning.
 
