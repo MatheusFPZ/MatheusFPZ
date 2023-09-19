@@ -1,7 +1,7 @@
 <H1 align= "center">Bem Vindo!</H1>
 
 - 💼Trabalho atualmente na Ativo.
-- 👨‍💻 Estou desenvolvendo um app e me aprofundando em Machine Learning.
+- 👨‍💻 Estou desenvolvendo um app e me aprofundando em Java.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusFPZ&theme=radical" />
