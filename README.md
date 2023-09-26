@@ -1,7 +1,7 @@
 ### Bem vindo
 
 - 💼Trabalho atualmente na Ativo.
-- 👨‍💻 Estou desenvolvendo um app em react native e me aprofundando em Java.
+- 👨‍💻 Estou desenvolvendo um app em react native e me aprofundando em Java com a Framework Spring.
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=200 align="center"
