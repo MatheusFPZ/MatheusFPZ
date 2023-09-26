@@ -39,4 +39,4 @@
 
 
 
-![Snake animation](https://github.com/matheusFPZ/matheusFPZ/blob/output/github-contribution-grid-snake.svg)
+
