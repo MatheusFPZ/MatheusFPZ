@@ -1,6 +1,6 @@
 ### Bem vindo
 
-- 💼Trabalho atualmente na Ativo.
+- 💼Trabalho atualmente como programador de sistemas na Cotribá.
 - 👨‍💻 Estou desenvolvendo um app em react native e me aprofundando em Java com a Framework Spring.
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
