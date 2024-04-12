@@ -17,6 +17,12 @@
 <div align="center"><br>
 <!--     <img align="left" height="250" alt="codando" src="code.gif"> -->
     <div> <H1>Tecnologias</H1>
+          <img align="center" height="30" width="40" alt="maria"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
+        <img align="center" height="30" width="40" alt="oracle"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+        <img align="center" height="30" width="40" alt="linux"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" alt="javascript"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html"
@@ -25,12 +31,12 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="java"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="spring"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" height="30" width="40" alt="flutter"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" height="30" width="40" alt="php"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" height="30" width="40" alt="css"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   
+        
 </div>
    
 </div>
