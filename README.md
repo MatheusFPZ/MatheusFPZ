@@ -15,8 +15,8 @@
 <H2></H2>
 
 <div align="center"><br>
-    <img align="left" height="250" alt="codando" src="code.gif">
-    <H1>Tecnologias</H1>
+<!--     <img align="left" height="250" alt="codando" src="code.gif"> -->
+    <div> <H1>Tecnologias</H1>
     <img align="center" height="30" width="40" alt="javascript"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html"
@@ -31,7 +31,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" height="30" width="40" alt="css"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+</div>
+   
 </div>
 
 
