@@ -1,6 +1,6 @@
 ### Bem vindo
 
-- 💼Trabalho atualmente como desenvolvedor react.
+- 💼Trabalho atualmente como desenvolvedor frontend react.
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=200 align="center"
